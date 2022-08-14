@@ -1,0 +1,6 @@
+name: HookEvents
+version: '${project.version}'
+main: me.afatcookie.hookevents.HookEvents
+api-version: 1.18
+authors: [ AFatCookie ]
+description: Events that happen whenever you reel in the fishing rod, and are fishing
